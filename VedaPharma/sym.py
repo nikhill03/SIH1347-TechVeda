@@ -287,6 +287,7 @@ def NaiveBayes(symptom1, symptom2, symptom3, symptom4, symptom5):
 
 def mainFunc():
     st.title("Disease Prediction App")
+    st.title("Select your symptoms")
 
     
     symptom1 = st.selectbox("Symptom 1", ["Select a Symptom"] + symptoms)
