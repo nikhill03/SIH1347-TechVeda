@@ -21,6 +21,7 @@ cd VedaPharma
 streamlit run main.py
 ```
 x
+x
 
 # Tech Stacks:
 1) Python
