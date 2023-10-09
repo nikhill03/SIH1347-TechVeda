@@ -2,6 +2,7 @@
 
 Hello this is TechVeda, A software that suggests drugs and formulations for a disease/pharmacological property based on the Ayurvedic classical books/Repositories.
 We made this for participating in Smart India Hackathon.
+x
 
 Running it locally:
 1) Clone the repository
