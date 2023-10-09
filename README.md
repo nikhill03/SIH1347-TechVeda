@@ -20,6 +20,7 @@ cd VedaPharma
 ```bash
 streamlit run main.py
 ```
+x
 
 # Tech Stacks:
 1) Python
