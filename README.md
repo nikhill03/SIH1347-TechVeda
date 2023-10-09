@@ -24,3 +24,4 @@ streamlit run main.py
 1) Python
 2) Streamlit
 3) Machine Learning tools(numpy, pandas etc)
+x
